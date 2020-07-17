@@ -1,0 +1,1 @@
+["obsessed with", "fond of", "keen on", 'like', 'enjoy', 'love', 'play', 'take joy in', 'adore', 'appreciate', "fan of", 'fascinated by', "interested in", 'fancy', 'mad about', "practise", "sucker for", "hate", "dislike", "detest", "can't stand", "interest", "hobby", "passion", "obsession"]
